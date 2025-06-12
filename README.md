@@ -1,0 +1,46 @@
+Sales Dashboard Overview:
+
+- This dashboard is built with fictional 15,000 data points ranging between 02-02-2018 to 01-02-2021.
+
+* Key Performance Indicators (KPI's):
+	- Total Sales: $55.39M
+	- Total Profits: $35.59M
+	- Total Order Quantity: 251K units
+	- Profit Margin: 64.25%
+
+* Day with more sales:
+	- Among 7 weekdays, Friday is the day with more sales totalling to $8.40M (approximately).
+
+* Product with more profit:
+	- Contoso Projector is the product that earned more profit totalling to $343K.
+
+* Sales by region:
+	- Most sales had happened in North America followed by Asia and Europe.
+	- Sales in North America total to $32.78M.
+	- Sales in Asia total to $12.41M.
+	- Sales in Europe total to $10.20M.
+
+* Sales by mode of Purchase:
+	- 57.27% sales had happened via store purchase and they total to $31.72M.
+	- 20.76% sales had happened via online purchase and they total to $11.50M
+	- 12.95% sales had happened via reseller purchase and they total to $7.17M
+	- 9.03% sales happened via catalog purchase and they total to $5.00M.
+
+* Sales by Brand Name:
+	- Fabrikam is the brand with most sales and totalling to $12.05M in sales and it is the brand with highest profit margin of 67.57%.
+	- Northwind Traders is the brand with least sales and totalling to $136.57K in sales and it also has the least profit margin of 40.03%.
+	- I assume that sales and profit margin are linked to each other. If sales are high, profit margin is also high and vice versa.
+
+* Sales by Product Category:
+	- Computers are the products that are getting sold abundantly and Proseware is the brand that dominates among all brands.
+	- Audio products are the least sold products and the brand Contoso is the dominating among all brands.
+	- Cameras and Camcorders products are sold by 3 brands and Fabrikam is the market dominator among 3 brands.
+	- TV and Video products are sold by 4 brands and Contoso is the dominating for the product.
+	- Cell phones are sold by 2 brands and The Phone Company dominates the market share.
+	- Music, Movies and Audio Books are sold by 2 brands and Contoso brand slightly dominates the other.
+
+* Sales and Profit by Year, quarter, Month:
+	- Among the four years, year 2018 has more sales and more profit and year 2021 has less sales and less profit and I assume it is not accurate as the full year data of year 2021 is not available.
+	- Cameras and Camcorders are the most sold products during 2018.
+	- Q4 is the quarter with more sales and more profits. And computers are the mostly sold product during this quarter.
+	- January is the month with more sales and profits. And computers are the mostly sold product during this month.
